@@ -2,12 +2,14 @@
     "name": "xuejd3/socialiteproviders-xianyan_bbs",
     "description": "xianyan_bbs OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
-    "authors": [{
-        "name": "xuejd3",
-        "email": "xuejd3@gmail.com"
-    }],
+    "authors": [
+        {
+            "name": "xuejd3",
+            "email": "xuejd3@gmail.com"
+        }
+    ],
     "require": {
-        "socialiteproviders/manager": "~3.0"
+        "socialiteproviders/manager": "^4.0"
     },
     "autoload": {
         "psr-4": {
